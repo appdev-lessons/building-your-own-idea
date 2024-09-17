@@ -39,7 +39,7 @@ Ultimately, you will submit:
 - Slides 🖼️
 
 ## Requests for Projects (RFP)
-We created https://rfp.dpi.dev/ to help closely align your project with industry trends and employer expectations. Please read through to get an idea for the types of projects we're looking for. I highly encourage you to build a project that fits within these categories (or similar). If not, please chat with an instructor or assistant and we can work something out.
+We created [https://rfp.dpi.dev/](https://rfp.dpi.dev/) to help closely align your project with industry trends and employer expectations. Please read through to get an idea for the types of projects we're looking for. I highly encourage you to build a project that fits within these categories (or similar). If not, please chat with an instructor or assistant and we can work something out.
 
 <!-- TODO: question to verify you read the rfp -->
 
