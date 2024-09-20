@@ -1,6 +1,10 @@
 # Building Your Own Idea
 
+<div class="alert alert-primary mt-2">
+
 [Video](https://youtu.be/meNvup0lX0U)
+
+</div>
 
 Can you now identify a problem that can be solved with software and build something to test your theory?
 
@@ -32,15 +36,26 @@ In very rare cases, an idea might not need a database (perhaps it reads and stor
 ## Deliverables
 Ultimately, you will submit:
 <!-- TODO: link to lessons -->
-- Screencast Demo Video 🎬
-- Functional Specification 📝
-- GitHub Repository URL 🔗 📦
-- Project URL 🌐
-- Slides 🖼️
+- Screencast Demo Video
+- Functional Specification
+- GitHub Repository URL
+- Deployed Project URL
+- Presentation Slides
 
 ## Requests for Projects (RFP)
 We created [https://rfp.dpi.dev/](https://rfp.dpi.dev/) to help closely align your project with industry trends and employer expectations. Please read through to get an idea for the types of projects we're looking for. I highly encourage you to build a project that fits within these categories (or similar). If not, please chat with an instructor or assistant and we can work something out.
 
 <!-- TODO: question to verify you read the rfp -->
+- Did you read through [https://rfp.dpi.dev/](https://rfp.dpi.dev/) to get a sense of the project ideas we're looking ofr?
+- Yes
+  - Great!
+- No
+  - Please read through [https://rfp.dpi.dev/](https://rfp.dpi.dev/) before continuing.
+{: .choose_best #rfp_confirmation title="Read through the Requests for Projects" points="1" answer="1"}
 
 <!-- TODO: How to think about project ideas -->
+
+---
+
+- Approximately how long (in minutes) did this lesson take you to complete?
+{: .free_text_number #time_taken title="Time taken" points="1" answer="any"}
