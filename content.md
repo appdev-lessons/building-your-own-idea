@@ -53,8 +53,6 @@ We created [https://rfp.dpi.dev/](https://rfp.dpi.dev/) to help closely align yo
   - Please read through [https://rfp.dpi.dev/](https://rfp.dpi.dev/) before continuing.
 {: .choose_best #rfp_confirmation title="Read through the Requests for Projects" points="1" answer="1"}
 
-<!-- TODO: How to think about project ideas -->
-
 ---
 
 - Approximately how long (in minutes) did this lesson take you to complete?
