@@ -1,4 +1,4 @@
-# Building Your Own Idea
+# (Introduction to) Building Your Own Idea
 
 <div class="alert alert-primary mt-2">
 
