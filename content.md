@@ -45,13 +45,22 @@ Ultimately, you will submit:
 ## Requests for Projects (RFP)
 We created [https://rfp.dpi.dev/](https://rfp.dpi.dev/) to help closely align your project with industry trends and employer expectations. Please read through to get an idea for the types of projects we're looking for. I highly encourage you to build a project that fits within these categories (or similar). If not, please chat with an instructor or assistant and we can work something out.
 
-<!-- TODO: question to verify you read the rfp -->
-- Did you read through [https://rfp.dpi.dev/](https://rfp.dpi.dev/) to get a sense of the project ideas we're looking ofr?
+- Did you read through [https://rfp.dpi.dev/](https://rfp.dpi.dev/) to get a sense of the project ideas we're looking for?
 - Yes
   - Great!
 - No
   - Please read through [https://rfp.dpi.dev/](https://rfp.dpi.dev/) before continuing.
 {: .choose_best #rfp_confirmation title="Read through the Requests for Projects" points="1" answer="1"}
+
+## Rubric
+Your project will be assessed by [this rubric](https://github.com/DPI-WE/rubric/blob/main/sdf/final-project/overview.md). 
+
+- Did you read through the rubric to get a sense of what we're looking for?
+- Yes
+  - Great!
+- No
+  - Please read through [this rubric](https://github.com/DPI-WE/rubric/blob/main/sdf/final-project/overview.md) before continuing.
+{: .choose_best #rubric_confirmation title="Read through the rubric" points="1" answer="1"}
 
 ---
 
